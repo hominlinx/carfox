@@ -1,3 +1,3 @@
-[submodule "lib/lib1"]
+[submodule "lib1"]
 	path = lib1
 	url = git@github.com:hominlinx/lib1.git
