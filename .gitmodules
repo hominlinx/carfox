@@ -1,3 +1,6 @@
 [submodule "vim"]
 	path = vim
 	url = git://github.com/hominlinx/vim.git
+[submodule "lib1"]
+	path = lib1
+	url = git://github.com/hominlinx/lib1.git
